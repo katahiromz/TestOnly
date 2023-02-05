@@ -10,12 +10,12 @@ void test_1(void)
 
 void test_2(void)
 {
-    assert(1 + 1 == 3);
+    assert(1 + 1 == 2);
 }
 
 void test_3(void)
 {
-    assert(2 + 3 == 6);
+    assert(2 + 3 == 5);
 }
 
 int main(int argc, char **argv)
